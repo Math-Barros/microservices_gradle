@@ -10,7 +10,7 @@ Rest API for product inventory control developed with Java Spring Boot. This pro
 ### Clone
 Clone the repository on your machine with the command
 
-```git clone https://github.com/Math-Barros/loja-spring-boot.git```
+```git clone https://github.com/Math-Barros/microservices_gradle.git```
 
 ### Config Database
 Access the file **[application.properties](https://github.com/Math-Barros/microservices_gradle/blob/main/nac1-boot/src/main/resources/application.properties)**
