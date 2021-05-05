@@ -13,7 +13,7 @@ Clone the repository on your machine with the command
 ```git clone https://github.com/Math-Barros/loja-spring-boot.git```
 
 ### Config Database
-Access the file **[application.properties](https://github.com/Math-Barros/microservices_gradle/blob/master/src/main/resources/application.properties)**
+Access the file **[application.properties](https://github.com/Math-Barros/microservices_gradle/nac1-boot/src/main/resources/application.properties)**
 
 ```
 spring.datasource.username={username}
