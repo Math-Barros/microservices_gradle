@@ -30,7 +30,7 @@ Run this file: **[ProdutosBootApplication](https://github.com/Math-Barros/micros
 
 - /loja
 
-Docs Endpoints: **[POSTMAN Docs](https://github.com/Math-Barros/api-rest-java/blob/master/src/main/resources/postman/Produtos%20Boot.postman_collection.json)**
+Docs Endpoints: **[POSTMAN Docs](https://github.com/Math-Barros/microservices_gradle/nac1-boot/src/main/resources/postman/nac1-boot.postman_collection.json)**
 
 
 --- 
